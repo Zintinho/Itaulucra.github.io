@@ -1,0 +1,18 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 10 Oct 2024 03:02:40 at https://revelandotudoavr.com/itauinicio/
+(httrack https://revelandotudoavr.com/itauinicio/ -O /storage/emulated/0/Download/clone_itau )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/fonts/WYRmjND0js42.eot (from https://revelandotudoavr.com/itauinicio/css/XTnLpmMt11At.css)
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/fonts/I3bdewqavulN.woff2 (from https://revelandotudoavr.com/itauinicio/css/XTnLpmMt11At.css)
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/fonts/eaGYwyDcZBoX.woff (from https://revelandotudoavr.com/itauinicio/css/XTnLpmMt11At.css)
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/fonts/8ThFoKUGEyzc.ttf (from https://revelandotudoavr.com/itauinicio/css/XTnLpmMt11At.css)
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/images/6gLYSW7HUUXF.svg (from https://revelandotudoavr.com/itauinicio/css/XTnLpmMt11At.css)
+03:07:19	Error: 	"Forbidden" (403) at link https://revelandotudoavr.com/itauinicio/images/ (from https://revelandotudoavr.com/itauinicio/js/e9UDEtXoF8DL.js)
+03:07:19	Error: 	"Not Found" (404) at link https://revelandotudoavr.com/itauinicio/giItT1WQy@!-/ (from https://revelandotudoavr.com/itauinicio/js/e9UDEtXoF8DL.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 55 seconds : 61 links scanned, 53 files written (5304464 bytes overall) [4407157 bytes received at 14939 bytes/sec], 1662517 bytes transferred using HTTP compression in 39 files, ratio 23%, 4.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
